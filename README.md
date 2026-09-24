@@ -1,6 +1,6 @@
 # Clear Night Coach — Releases
 
-Downloads for **Clear Night Coach**, the astrophotography target-decision engine for Southern Hemisphere imagers.
+Downloads for **Clear Night Coach**, the astrophotography target-decision engine
 
 **→ [clearnightcoach.com](https://clearnightcoach.com)**
 
